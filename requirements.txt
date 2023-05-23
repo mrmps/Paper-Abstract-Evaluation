@@ -2,5 +2,5 @@ fastapi
 uvicorn
 textblob
 langchain
-dotenv
+python-dotenv
 steamlit
